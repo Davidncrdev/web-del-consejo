@@ -1,33 +1,34 @@
 ---
 layout: ../../layouts/post.astro
-title: The Perfect Brew for Optimal Productivity
-description: This is a post about how creating and developing a blog for yourself can be beneficial
-dateFormatted: July 7th, 2023
+title: La Labor Social del Consejo Evangélico de Málaga
+description: Este artículo destaca cómo CEPMA promueve la unidad y el impacto social de las iglesias evangélicas en Málaga.
+dateFormatted: Junio 26th, 2024
 ---
 
-![Coffee and Code](/assets/images/posts/perfect-coffee.jpg)
+![CEPMA en Acción](/assets/images/posts/cepma-accion.jpg)
 
-**Introduction**
+**Introducción**
 
-Greetings, fellow keyboard warriors and design dreamers! ☕️ Ever wondered why coffee shops are the unofficial office of developers and designers worldwide? Let's dive deep into the aromatic world of coffee and its symbiotic relationship with our craft.
+¡Saludos a todos los miembros de la comunidad evangélica! 🙏 ¿Sabías cómo el Consejo Evangélico Provincial de Málaga (CEPMA) está fortaleciendo la unidad y fomentando la colaboración entre las iglesias evangélicas? Exploremos sus iniciativas y logros.
 
-**Why Coffee and Coding Go Hand in Hand**
+**El Impacto de CEPMA**
 
-1. **Caffeine Boost**: That gentle nudge of alertness can be the difference between a bug and a breakthrough.
-2. **Ritualistic Zen**: The process of brewing, the aroma, the first sip—it's a ritual that centers the mind.
-3. **Ambient Vibes**: The soft hum of conversations, the clinking of cups—it's the perfect white noise for concentration.
+1. **Unidad Evangélica**: Fortalecer la cooperación entre iglesias bajo la cobertura de Ferede.
+2. **Representación y Colaboración**: Actuar como la voz unificada ante autoridades y sociedad.
+3. **Iniciativas Sociales**: Organizar eventos y proyectos que muestran el compromiso social de la comunidad.
 
-![Pour Over](/assets/images/posts/pour-over.jpg)
+![Evento Social](/assets/images/posts/evento-social.jpg)
 
-> "Coffee is the common man’s gold, and like gold, it brings to every person the feeling of luxury and nobility." - Sheik-Abd-al-Kadir
+> "Damos gracias a Dios y a todas las corporaciones que han participado." - Reme Bernal
 
-**Crafting the Perfect Coffee for Coding Sessions**
+**Actividades Principales de CEPMA**
 
-- **Beans Matter**: Opt for single-origin, freshly roasted beans. The flavor profile can be a journey in itself.
-- **Brewing Techniques**: Whether it's Aeropress, French press, or pour-over, find what tickles your taste buds and suits your coding rhythm.
-- **Mind the Time**: Don't brew just before a deep debugging session; you don't want to be jittery when tracing that elusive bug.
-- **Stay Hydrated**: Remember, for every cup of coffee, drink a glass of water. Balance is key.
+- **Jornadas Especiales**: Eventos como las Jornadas de Obra Social destacan el trabajo de las organizaciones evangélicas.
+- **Colaboración con Autoridades**: Fortaleciendo relaciones con líderes locales y municipales.
+- **Apoyo Comunitario**: Iniciativas para atender necesidades sociales y promover valores cristianos.
 
-**Conclusion**
+**Conclusión**
 
-Coffee isn't just a beverage; for many of us, it's a lifeline, a muse, and a silent partner in our coding escapades. So, whether you're a latte lover or an espresso enthusiast, here's to the brew that fuels our passion. Code on and keep sipping! 🖤
+CEPMA es más que una organización; es un bastión de unidad y apoyo para las iglesias evangélicas en Málaga. Continuemos trabajando juntos, fortalecidos en la fe y comprometidos con la acción. ¡Unidos en Cristo!
+
+![Unidad en Cristo](/assets/images/posts/unidad-en-cristo.jpg)
